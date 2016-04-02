@@ -3,8 +3,8 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF:
+a{
+  color: #00B7FF;
 }
 
 #content {
@@ -19,7 +19,7 @@ a {
 }
 
 #messages {
-  width: 600px;
+  width: 690px;
   height: 300px;
   overflow: auto;
   background-color: #eee;
